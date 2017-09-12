@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/fajardo/.android/build-cache/119bf225fd5db6f798ec768066d2e51828696a43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1716b971bebcac4bfaeff5202ddee762b036417b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/f02e55deb07c6c9116419e9b9af70c4d6db26979/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_0cf5d57681812523abe877dd3f674af609b71032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/c504d65843a000a2e6ad8c67f5de46c7ea9e41cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_084befa86c18e67708e9d22cc45991f804f66b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/5d8387a9719b662021c223f3ac737ee1b18d1545/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_4376c30d8d0ade4b14e5af55f978d0573e236281.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c8c4d8e319d1bc65437f79af7e21c74cd4a2be6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/51a8386777f180f06209675bee3b831de50ad1a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_8f83638106409a07e493e1847b8f6c0973d45a31.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="631b18b1ab8aa812c76d061753d2c31520eeb80a">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7bfa9adfafcf8b3a79252cc5f94a51b7fe29fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/3a549a851090b4e821b25703776c9913116968bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_85f99eee356272fda87b2f8eb0ca2a089903281a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fajardo/.android/build-cache/67f87c3da26d228cf44117bf79473322fe0738ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be278867c1a0c8e9a72640630f69ebe71d57fddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/435aedf4f48b12c0c6dc7a334d730bce3a095def/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_48507d7d6eaf43cdd08635f92ced1cb40b1b2963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_71116825c3fdaacad66121cbcac1b8c174ed8383.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fajardo/.android/build-cache/e8c6097dc9d6061cfd57a57130b4d0ffccb1bdef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d35be27ae7a7c19f4f48cac11cda55459138740c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/8e98ee1dd8317812485ccfe6b6d2f4ac4ee55d59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_fe16ca3d5b568d2cf0fcf9c29586258edd3fb1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/b55992025fca71112b58964490ec6cebdd83153a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_5c9b90db27c172efc7807592f9cf8d1237960db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/f2edd552c5321402dea676aa20b55940abaad28d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_fad15b48a78d25c22cd95e34fac37212b664eaf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/.android/build-cache/d2b81a40af17c76acca59c9d2d0a4e4c753eac95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/classes_70692c425f3f2644bc3614110989d6ee3534142e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fajardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/fajardo/AndroidStudioProjects/Prueba00/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_4c306c78615afccf478d0b8049fcd0b991a3ca3a.jar" />
+    </item>
+
+</items>

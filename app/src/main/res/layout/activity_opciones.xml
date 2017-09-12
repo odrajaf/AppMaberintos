@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.ugr.fajardo.prueba00.OpcionesActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textViewLabelVelo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+                android:text="Sensibilidad"
+                android:textAlignment="viewStart"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/seekBarSensibi"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <SeekBar
+                android:id="@+id/seekBarSensibi"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:max="100"
+                android:paddingLeft="40dp"
+                android:paddingRight="40dp"
+                android:progress="5"
+                tools:layout_editor_absoluteX="8dp"
+                tools:layout_editor_absoluteY="36dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/fab_margin" />
+
+            <TextView
+                android:id="@+id/textViewLabelColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:text="Color de la bola"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="8dp"
+                tools:layout_editor_absoluteY="145dp" />
+
+            <SeekBar
+                android:id="@+id/seekBarColorR"
+                style="@android:style/Widget.DeviceDefault.Light.SeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="21dp"
+                android:layout_weight="0.03"
+                android:max="255"
+                android:paddingBottom="10dp"
+                android:paddingRight="20dp"
+                android:paddingTop="10dp"
+                android:progress="5"
+                tools:layout_editor_absoluteX="30dp"
+                tools:layout_editor_absoluteY="180dp" />
+
+            <SeekBar
+                android:id="@+id/seekBarColorG"
+                style="@android:style/Widget.DeviceDefault.Light.SeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="22dp"
+                android:layout_weight="0.04"
+                android:max="255"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:progress="5"
+                tools:layout_editor_absoluteX="30dp"
+                tools:layout_editor_absoluteY="201dp" />
+
+            <SeekBar
+                android:id="@+id/seekBarColorB"
+                style="@android:style/Widget.DeviceDefault.Light.SeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="255"
+                android:paddingBottom="10dp"
+                android:progress="0"
+                tools:layout_editor_absoluteX="30dp"
+                tools:layout_editor_absoluteY="223dp" />
+
+            <Button
+                android:id="@+id/buttonColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                tools:layout_editor_absoluteX="207dp"
+                tools:layout_editor_absoluteY="180dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/fab_margin"
+                tools:layout_editor_absoluteX="8dp"
+                tools:layout_editor_absoluteY="122dp" />
+
+            <TextView
+                android:id="@+id/textViewLabelVibrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:text="Vibrar al colisionar"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/checkBoxVibrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="Vibrar"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/buttonGuardarConf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:text="Guardar Configuración" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
